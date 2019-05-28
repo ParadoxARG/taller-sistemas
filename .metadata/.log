@@ -1,0 +1,12 @@
+!SESSION 2019-05-27 19:14:12.538 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr5ifx-20090821_41076 (JIT enabled, AOT enabled)
+J9VM - 20090821_041076_lHdSMr
+JIT  - r9_20090518_2017
+GC   - 20090417_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ibm.rational.rsastd.product.v75.ide
+Command-line arguments:  -data C:\Repos\ParadoxARG\taller-sistemas -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsastd.product.v75.ide
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2019-05-27 19:14:25.932
+!MESSAGE Could not acquire INavigatorContentService from part ("Welcome").
