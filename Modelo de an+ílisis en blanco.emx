@@ -521,6 +521,7 @@
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_-1aDwO-HEeGXzN-ZFYkD-g" value="1"/>
       </ownedEnd>
     </packagedElement>
+    <packagedElement xmi:type="uml:Actor" xmi:id="_OGaHoI5CEemNvsqYRCwotQ" name="Tiempo"/>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_uDmWoO-LEeGXzN-ZFYkD-g" name="Use Case Diagram">
     <eAnnotations xmi:id="_uDoL0O-LEeGXzN-ZFYkD-g" source="uml2.diagrams">
